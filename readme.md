@@ -11,6 +11,8 @@ Uranus
 Neptune
 
 ##Moons
-Lunar (Earth)
-Deimos (Mars)
-Phobos (Mars)
+ - Deimos (Mars)
+ - Phobos (Mars)
+ - Lunar (Earth)
+ - Io (Jupiter)
+ - Europa (Jupiter)
